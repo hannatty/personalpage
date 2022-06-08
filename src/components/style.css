@@ -1,0 +1,17 @@
+.input-stack{
+  width:200px;
+  height:30px ;
+  margin-bottom: 10px;
+}
+
+.add-button{
+  display: block;
+  background-color: #AA4543;
+  font-size: large;
+  border-color: none;
+  border-radius: 5px;
+  color: #f1f1f1;
+  font-family: "Hammersmith One", sans-serif;
+  height: 40px;
+  width: 200px;
+}
