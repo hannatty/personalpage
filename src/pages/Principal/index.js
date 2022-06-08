@@ -21,7 +21,7 @@ const Principal = () => {
           Web Developer
         </h1>
         <Button
-          href="/home"
+          href="/"
           variant="contained"
           size="large"
           style={{ top: "150px", right: "450px", backgroundColor: "#AA4543" }}
